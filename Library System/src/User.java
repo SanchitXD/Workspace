@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 /**
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
- * 				LIBRARY SYSTEM PROGRAM                 *
- * 					--USER CLASS--					   *
+ * 		LIBRARY SYSTEM PROGRAM                 *
+ * 		    --USER CLASS--		       *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * @author Omar Abdeldayem                             *
  * @author Sanchit Luthra                              *
